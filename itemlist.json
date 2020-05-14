@@ -1,0 +1,176 @@
+{
+	"items": [{
+			"SerialNumber": "1",
+			"Name": "Chilly",
+			"Quantity": "10",
+			"Unit": "kg",
+			"Department": "Fresh Produce",
+			"Notes": "Round chillies-Green"
+		},
+		{
+			"SerialNumber": "2",
+			"Name": "Mushroom",
+			"Quantity": "2",
+			"Unit": "kg",
+			"Department": "Fresh Produce",
+			"Notes": "Pure white - Organic"
+		},
+		{
+			"SerialNumber": "3",
+			"Name": "Brinjal",
+			"Quantity": "500",
+			"Unit": "g",
+			"Department": "Fresh Produce",
+			"Notes": "Medium Size"
+		},
+		{
+			"SerialNumber": "4",
+			"Name": "Bracoli",
+			"Quantity": "750",
+			"Unit": "g",
+			"Department": "Fresh Produce",
+			"Notes": "Green"
+		},
+		{
+			"SerialNumber": "5",
+			"Name": "Mug",
+			"Quantity": "2",
+			"Unit": " box",
+			"Department": "Household",
+			"Notes": "GOT Frame"
+		},
+		{
+			"SerialNumber": "6",
+			"Name": "Brush",
+			"Quantity": "1",
+			"Unit": "box",
+			"Department": "Household",
+			"Notes": "Floor cleaner brush"
+		},
+		{
+			"SerialNumber": "7",
+			"Name": "Detol",
+			"Quantity": "1",
+			"Unit": " bottle",
+			"Department": "Household",
+			"Notes": " 1 Litre"
+		},
+		{
+			"SerialNumber": "8",
+			"Name": "Prill",
+			"Quantity": "1",
+			"Unit": " bottle",
+			"Department": "Household",
+			"Notes": "0.5 Litre - Blue"
+		},
+		{
+			"SerialNumber": "9",
+			"Name": "Chicken Patty",
+			"Quantity": "15",
+			"Unit": "Pack",
+			"Department": "Meat",
+			"Notes": "Alshifa-frozen food"
+		},
+		{
+			"SerialNumber": "10",
+			"Name": "Chicken",
+			"Quantity": "3",
+			"Unit": "kg",
+			"Department": "Meat",
+			"Notes": "Frozen-Packets"
+		},
+		{
+			"SerialNumber": "11",
+			"Name": "Prawn",
+			"Quantity": "2",
+			"Unit": "kg",
+			"Department": "Meat",
+			"Notes": "Fresh"
+		},
+		{
+			"SerialNumber": "12",
+			"Name": "Beef",
+			"Quantity": "2",
+			"Unit": "kg",
+			"Department": "Meat",
+			"Notes": "fresh"
+		},
+		{
+			"SerialNumber": "13",
+			"Name": "Cheddar",
+			"Quantity": "8",
+			"Unit": "Ounces",
+			"Department": "Cheese",
+			"Notes": "Salted"
+		},
+		{
+			"SerialNumber": "14",
+			"Name": "Goat Cheese",
+			"Quantity": "6",
+			"Unit": "Ounces",
+			"Department": "Cheese",
+			"Notes": "fresh"
+		},
+		{
+			"SerialNumber": "15",
+			"Name": "Manchego",
+			"Quantity": "10",
+			"Unit": "Ounces",
+			"Department": "Cheese",
+			"Notes": "fresh"
+		},
+		{
+			"SerialNumber": "16",
+			"Name": "Brie",
+			"Quantity": "8",
+			"Unit": "Ounces",
+			"Department": "Cheese",
+			"Notes": "Plane"
+		},
+		{
+			"SerialNumber": "17",
+			"Name": "GG Crackers",
+			"Quantity": "1",
+			"Unit": "Pack",
+			"Department": "Packed/Canned",
+			"Notes": "Check expiry"
+		},
+		{
+			"SerialNumber": "18",
+			"Name": "Cucina Antica Tomato Sauce",
+			"Quantity": "7",
+			"Unit": "Pack",
+			"Department": "Packed/Canned",
+			"Notes": "Turkish"
+		},{
+			"SerialNumber": "19",
+			"Name": "Lily's Dark chocolate chips",
+			"Quantity": "5",
+			"Unit": "Pack",
+			"Department": "Packed/Canned",
+			"Notes": "Choose Big Pack"
+		},{
+			"SerialNumber": "20",
+			"Name": "Unsweetened nut milk",
+			"Quantity": "18",
+			"Unit": "Litre",
+			"Department": "Beverages",
+			"Notes": "Buy chilled packets"
+		},{
+			"SerialNumber": "21",
+			"Name": "Bai water",
+			"Quantity": "2",
+			"Unit": "Litre",
+			"Department": "Beverages",
+			"Notes": "Buy an entire cartoon"
+		},{
+			"SerialNumber": "22",
+			"Name": "Grady's cold brew",
+			"Quantity": "6",
+			"Unit": "litre",
+			"Department": "Beverages",
+			"Notes": "Premium brand"
+		}
+
+	]
+}
